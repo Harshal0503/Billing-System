@@ -22,7 +22,7 @@ A modern, fast, and responsive GST Billing and Invoice Management software built
 
 *   **Frontend Framework:** React 18 with Vite
 *   **Styling:** Tailwind CSS (with a custom dark/light theme aesthetic)
-*   **State Management:** Zustand (with local storage persistence)
+*   **State Management:** Zustand 
 *   **Backend & Database:** Firebase (Authentication, Firestore Database, Hosting)
 *   **PDF Generation:** `jsPDF` and `html2canvas`
 *   **Routing:** React Router v6
