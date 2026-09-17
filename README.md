@@ -42,7 +42,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repo**
     ```sh
-    git clone https://github.com/your-username/gst-bill-pro.git
+    git clone https://github.com/Harshal0503/Billing-System.git
     cd gst-bill-pro/frontend
     ```
 
@@ -86,7 +86,3 @@ Deploying the app to the internet is incredibly easy using Firebase Hosting.
     ```sh
     firebase deploy
     ```
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
